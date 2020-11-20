@@ -1,4 +1,4 @@
-# conversor_curso
+# Currency Conversor APP
 
 A new Flutter project.
 
