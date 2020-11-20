@@ -68,7 +68,7 @@ class _HomeViewState extends State<HomeView> {
               onPressed: () {
                 homeController.convert();
               },
-              child: Text('CONVERTER'),
+              child: Text('CONVERT'),
             )
           ],
         ),
